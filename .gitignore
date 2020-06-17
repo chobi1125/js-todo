@@ -2,4 +2,4 @@
 _gulpfile
 node_modules
 _reserve
-dist/firebase
+dist/firebase/
